@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20Jordan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=fullstack%20web%20developer%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey,%20I'm%20Jordan!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=fullstack%20software%20engineer%20&descAlignY=51&descAlign=62)
 
 
 
