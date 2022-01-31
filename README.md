@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,1,2,4,5&height=300&section=header&text=Hello,%20I'm%20Jordan!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=full%20stack%20software%20engineer%20|%20front%20end%20specialist&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=1&height=300&section=header&text=Hello,%20I'm%20Jordan!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=full%20stack%20software%20engineer%20|%20front%20end%20specialist&descAlignY=51&descAlign=62)
 
 <div>
   <p>Hello World :earth_americas:,</p>
@@ -127,7 +127,7 @@ Feel free to contact me via ✉ **<a href="mailto:jwalters012@gmail.com">email</
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,1,2,4,5&height=60&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=1&height=60&section=footer)
 
 
 
