@@ -10,7 +10,7 @@
 
 - Learning TypeScript :blue_book:
 - Studying System Design Patterns :eyeglasses:
-- Writing blog <a href="https://medium.com/@jwalters012" target="_blank">posts</a> :pencil: (coming soon)
+<!--- Writing blog <a href="https://medium.com/@jwalters012" target="_blank">posts</a> :pencil: (coming soon) --->
 - Coding my professional portfolio :computer:
   </p>
 </div>
