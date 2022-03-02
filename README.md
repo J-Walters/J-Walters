@@ -10,7 +10,6 @@
 
 - Learning TypeScript :blue_book:
 - Studying System Design Patterns :eyeglasses:
-<!--- Writing blog <a href="https://medium.com/@jwalters012" target="_blank">posts</a> :pencil: (coming soon) --->
 - Coding my professional portfolio :computer:
   </p>
 </div>
@@ -131,7 +130,7 @@ Feel free to contact me via ✉ **<a href="mailto:jwalters012@gmail.com">email</
 
 
 
-
+<!--- Writing blog <a href="https://medium.com/@jwalters012" target="_blank">posts</a> :pencil: (coming soon) --->
 
 
 <!--- 👋 Hi, I’m @J-Walters
