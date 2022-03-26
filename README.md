@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=1&height=300&section=header&text=Hello,%20I'm%20Jordan!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=full%20stack%20software%20engineer%20|%20front%20end%20specialist&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=1&height=300&section=header&text=Hello,%20I'm%20Jordan!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=full%20stack%20software%20engineer%20|%20frontend%20specialist&descAlignY=51&descAlign=62)
 
 <div>
   <p>Hello World :earth_americas:,</p>
  
-  <p>I am Jordan Walters, a recent graduate of the <a href="https://www.gracehopper.com/curriculum" target="blank">Grace Hopper Program</a> at Fullstack Academy :mortar_board:.  Through the program, I gained strong :muscle: full stack capabilities with an emphasis on front end web development.  I am a passionate learner who is looking to use creative solutions to build elegant interfaces :sparkles:.
+  <p>I am Jordan Walters, a recent graduate of the <a href="https://www.gracehopper.com/curriculum" target="blank">Grace Hopper Program</a> at Fullstack Academy :mortar_board:.  Through the program, I gained strong :muscle: full stack capabilities with an emphasis on frontend web development.  I am a passionate learner who is looking to use creative solutions to build elegant interfaces :sparkles:.
   <br>
   <br>
   <p>I'm currently doing the following:
