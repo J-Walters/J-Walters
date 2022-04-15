@@ -9,7 +9,6 @@
   <p>I'm currently doing the following:
 
 - Learning TypeScript :blue_book:
-- Studying System Design Patterns :eyeglasses:
 - Coding my professional portfolio :computer:
   </p>
 </div>
