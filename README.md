@@ -131,15 +131,3 @@ Feel free to contact me via ✉ **<a href="mailto:jwalters012@gmail.com">email</
 
 <!--- Writing blog <a href="https://medium.com/@jwalters012" target="_blank">posts</a> :pencil: (coming soon) --->
 
-
-<!--- 👋 Hi, I’m @J-Walters
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-
-J-Walters/J-Walters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
