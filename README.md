@@ -3,7 +3,7 @@
 <div>
   <p>Hello World :earth_americas:,</p>
  
-  <p>I am Jordan Walters, a recent graduate of the <a href="https://www.gracehopper.com/curriculum" target="blank">Grace Hopper Program</a> at Fullstack Academy :mortar_board:.  Through the program, I gained strong :muscle: full stack capabilities with an emphasis on frontend web development.  I am a passionate learner who is looking to use creative solutions to build elegant interfaces :sparkles:.
+  <!-- <p>I am Jordan Walters, a recent graduate of the <a href="https://www.gracehopper.com/curriculum" target="blank">Grace Hopper Program</a> at Fullstack Academy :mortar_board:.  Through the program, I gained strong :muscle: full stack capabilities with an emphasis on frontend web development.  I am a passionate learner who is looking to use creative solutions to build elegant interfaces :sparkles:.
   <br>
   <br>
   <p>I'm currently doing the following:
@@ -13,7 +13,7 @@
   </p>
 </div>
 <br>
-
+-->
 
 
 Feel free to contact me via ✉ **<a href="mailto:jwalters012@gmail.com">email</a>**.
